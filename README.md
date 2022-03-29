@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @GiuCap98 Giulio Cappelletti
+- 👋 Hi, I’m Giulio Cappelletti @GiuCap98
 - 👀 I’m interested in Computer science
-- 🌱 I am attending the master master's degree in engineering and computer science at University of Verona
+- 🌱 I am already gratuated a Bachelor Degree in computer science at University of Perugia 
+     currently, i'm attending the master's degree in engineering and computer science at University of Verona
 
 - 📫 How to reach me ... giuliocappelletti98@libero.it
 
